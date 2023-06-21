@@ -1,5 +1,5 @@
 {
-  "adNetwork": "admob",
+  "adNetwork": "facebook",
   "frequency": 2,
   "ids": {
     "appId": "672688944547157",
