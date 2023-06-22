@@ -1,11 +1,11 @@
 {
-  "adNetwork": "unity",
+  "adNetwork": "applovin",
   "frequency": 2,
   "ids": {
-    "appId": "5211372",
-    "banner": "Banner_Android",
-    "inter": "Interstitial_Android",
-    "reward": "Rewarded_Android",
+    "appId": "",
+    "banner": "b5510a8ade32c88d",
+    "inter": "a1c6df32450eabaa",
+    "reward": "109402920a0b40a8",
     "native": "",
     "mRec": "",
     "appOpen": ""
