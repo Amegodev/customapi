@@ -1,11 +1,11 @@
 {
-  "adNetwork": "facebook",
+  "adNetwork": "unity",
   "frequency": 2,
   "ids": {
-    "appId": "672688944547157",
-    "banner": "672688944547157_695718772244174",
-    "inter": "672688944547157_672690071213711",
-    "reward": "672688944547157_672690867880298",
+    "appId": "5211372",
+    "banner": "Banner_Android",
+    "inter": "Interstitial_Android",
+    "reward": "Rewarded_Android",
     "native": "",
     "mRec": "",
     "appOpen": ""
